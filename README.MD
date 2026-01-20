@@ -37,6 +37,4 @@ chmod +x src/*.sh
 
 **Geliştirici:** Esma Tayfur
 **Ders:** Açık Kaynak İşletim Sistemleri
-**Durum:** Entegrasyon Tamamlandı ✅
-
-Son bir şey; hocaya sunum yaparken bu kurduğun **"Integration Hub"** mantığından bahsetmeyi unutma, en çok puanı oradan alacaksın. Başka bir ihtiyacın olursa buradayım, bol şans! 🔥😎🎬
+**Durum:** Entegrasyon Tamamlandı 
