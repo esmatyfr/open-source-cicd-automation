@@ -1,1 +1,14 @@
 # Prompts for deepseek
+CI/CD Pipelines (DevOps & Automation)" hakkında detaylı bir teknik araştırma yapmanı istiyorum. Lütfen şu maddeleri 2025-2026 standartlarına uygun şekilde analiz et:
+
+Temel Çalışma Prensipleri: CI/CD'nin otomasyondaki rolü ve çalışma mantığı nedir?
+
+Best Practices: Sektördeki en iyi uygulama yöntemleri ve endüstri standartları nelerdir?
+
+Rakipler: GitHub Actions, GitLab CI ve Jenkins gibi açık kaynak projelerin karşılaştırması.
+
+Yapılandırma: Kritik YAML dosyaları ve içindeki önemli parametreler (steps, env, secrets vb.) nelerdir?
+
+SecOps: Güvenlik açısından 'Secret Management' ve pipeline güvenliğinde dikkat edilmesi gerekenler nelerdir?
+
+Lütfen cevabını kaynakları ile birlikte detaylı bir Markdown raporu olarak sun.
