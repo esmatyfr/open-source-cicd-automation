@@ -1,0 +1,16 @@
+{
+  "projectName": "CI/CD Pipeline",
+  "category": "DevOps / Automation",
+  "author": "Senin Adın",
+  "version": "1.0.0",
+  "description": "Projeleri otomatik test edip sunucuya yükleyen sistem.",
+  "features": [
+    "Otomatik Build",
+    "Hata Bildirimleri (Discord/Telegram)",
+    "Docker ile Çalıştırma"
+  ],
+  "requirements": {
+    "os": "Ubuntu 22.04",
+    "language": "YAML / Bash"
+  }
+}
