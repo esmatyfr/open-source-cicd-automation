@@ -10,7 +10,6 @@ Tek bir "push" ile tüm sistemi ayağa kaldıran, hataları önceden sezen ve ke
 
 Projenin teorik altyapısı, doğruluğu artırmak adına 4 farklı dev AI modeliyle çapraz sorgulanarak oluşturulmuştur:
 
-* **Gemini Pro:** Derin mantık ve mimari analiz.
 * **Gemini Fast:** Hızlı veri doğrulama.
 * **ChatGPT (OpenAI):** Teknik dokümantasyon ve best practice'ler.
 * **DeepSeek:** Derin araştırma ve kod mantığı.
